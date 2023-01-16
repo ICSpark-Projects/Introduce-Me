@@ -36,4 +36,7 @@ Using either an unordered or ordered list, list at least 3 of your hobbies or li
 ### Step 5: Add pictures
 Using the image tag, add at least 3 pictures of your listed hobbies or likes.
 
+### Step 6: Make your website pretty!
+Using css, edit your font size, background color or anything else you deem fit.
+
 ## Stretch Goals
