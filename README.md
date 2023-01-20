@@ -38,5 +38,3 @@ Using the image tag, add at least 3 pictures of your listed hobbies or likes.
 
 ### Step 6: Make your website pretty!
 Using css, edit your font size, background color or anything else you deem fit.
-
-## Stretch Goals
