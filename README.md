@@ -21,7 +21,7 @@ Learn how to use HTML and CSS to create a short introduction to yourself.
 ```
 
 ### Step 2: Create a header
-Using the header tag, create a header to name your website.
+Using different header tags, create at least two headers.
 
 Ex.
 ```
@@ -29,6 +29,11 @@ Ex.
 ```
 ### Step 3: Add a paragraph
 In a short paragraph introduce yourself.  What's your name?  Do you have any pets?  Add as little or as much detail as you want.
+
+Ex.
+```
+<p>Welcome to ICSpark<\p>
+```
 
 ### Step 4: Add a list
 Using either an unordered or ordered list, list at least 3 of your hobbies or likes.
