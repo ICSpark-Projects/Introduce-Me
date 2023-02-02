@@ -89,7 +89,7 @@ img {
 ```
 
 ## Stretch Goals
-If you finish early, add more sections to your introduction website using headers, paragraphs, lists and/or pictures.  (Ex. add a list of places you traveled to or want to travel to).
+If you finish early, add more sections to your introduction website using headers, paragraphs, lists and/or pictures.  (Ex. add a list of places you traveled to or want to travel to)
 
 Using css, play more with the look of your website using any of the following (you can also look up more css properties online):
 - font-family
