@@ -32,7 +32,7 @@ In a short paragraph introduce yourself.  What's your name?  Do you have any pet
 
 Ex.
 ```
-<p>Hello everyone my name is Maya and I'm a sophomore studying Computer Science at UH Manoa.<\p>
+<p>Hello everyone my name is Maya and I'm a sophomore studying Computer Science at UH Manoa.</p>
 ```
 
 ### Step 4: Add a list
