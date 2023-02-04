@@ -17,7 +17,7 @@ Learn how to use HTML and CSS to create a short introduction to yourself.
 2. Link your files 
 ```
 <link rel="stylesheet" href="style.css">
-<link rel="stylesheet" href="app.js">
+<script src=“app.js”></script>
 ```
 
 ### Step 2: Create a header
@@ -25,7 +25,7 @@ Using different header tags, create at least two headers.
 
 Ex.
 ```
-<h1>Hello Everyone!<\h1>
+<h1>Hello Everyone!</h1>
 ```
 ### Step 3: Add a paragraph
 In a short paragraph introduce yourself.  What's your name?  Do you have any pets?  Add as little or as much detail as you want.
@@ -41,10 +41,10 @@ Using either an unordered or ordered list, list at least 3 of your hobbies or li
 Ex.
 ```
 <ul>
-  <li>Sleeping<\li>
-  <li>Drawing<\li>
-  <li>Traveling<\li>
-<\ul>
+  <li>Sleeping</li>
+  <li>Drawing</li>
+  <li>Traveling</li>
+</ul>
 ```
 
 ### Step 5: Add pictures
